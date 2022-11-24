@@ -1,5 +1,4 @@
-<h1 align="center"> 💫 About Me:
-
+<h1 align="center"> 💫
 Hi, I'm Victor<br>FullStack Developer
 </h1>
 
