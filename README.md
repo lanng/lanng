@@ -4,7 +4,7 @@ Hi, I'm Victor<br>FullStack Developer
 
 ## Sobre:
 - Victor Languer
-- 24 anos
+- 27 anos
 - Universidade: Ciência da Computação - Centro Universitário de Adamantina (Fai)
 - Atualmente estudando desenvolvimento web com Laravel e Vue.
 - Tenho experiências básicas em C# e Java pela faculdade
